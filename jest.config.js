@@ -10,4 +10,5 @@ module.exports = {
     require.resolve('./tests/jest.config.dom'),
     require.resolve('./tests/jest.config.node'),
   ],
-}
+};
+
